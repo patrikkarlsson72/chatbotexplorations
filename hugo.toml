@@ -1,0 +1,73 @@
+baseURL = 'http://chatbotexplorations.se/'
+languageCode = 'en-us'
+title = 'Chatbot Explorations'
+theme = "anatole"
+
+[params]
+title = "Jag är Patrik"
+author = "Patrik Karlsson"
+description = "Innovativ problemlösare och teknikentusiast med en passion för att skapa meningsfulla lösningar. Utmanar gränserna för vad som är möjligt genom att använda banbrytande teknologi!"
+profilePicture = "images/profile.jpg"
+displayMode = "dark"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/patrik-karlsson-808b5855"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/patrikkarlsson72"
+
+[[params.socialIcons]]
+icon = "fab fa-whatsapp"
+title = "WhatsApp"
+url = "https://wa.me/message/RFNDGWX7GWL7B1"
+
+
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:patrik.karlsson72@example.com"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+
+  [[menu.main]]
+  name = "Om"
+  weight = 300
+  identifier = "om"
+  url = "/om/"
+
+ [[main]]
+name = "Accomplishments"
+weight = 500
+identifier = "accomplishments"
+
+[[main]]
+name = "Awards"
+weight = 510
+identifier = "awards"
+url = "/awards/"
+parent = "accomplishments"
+
+[[main]]
+name = "Certifications"
+weight = 520
+identifier = "certifications"
+url = "/certifications/"
+parent = "accomplishments"
+

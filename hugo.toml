@@ -6,7 +6,7 @@ theme = "anatole"
 [params]
 title = "Jag är Patrik"
 author = "Patrik Karlsson"
-description = "Innovativ problemlösare och teknikentusiast med en passion för att skapa meningsfulla lösningar. Utmanar gränserna för vad som är möjligt genom att använda banbrytande teknologi!"
+description = "Skapare av Chatbot Explorations, innovativ problemlösare och teknikentusiast med en passion för att skapa meningsfulla lösningar. Utmanar gränserna för vad som är möjligt genom att använda banbrytande teknologi!"
 profilePicture = "images/profile.jpg"
 displayMode = "dark"
 
@@ -30,7 +30,7 @@ url = "https://wa.me/message/RFNDGWX7GWL7B1"
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:patrik.karlsson72@example.com"
+url = "mailto:patrik@chatbotexplorations.se"
 
 [menu]
 

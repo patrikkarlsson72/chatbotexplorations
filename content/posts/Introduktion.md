@@ -56,6 +56,6 @@ Chatbotar har många användningsområden, inklusive kundtjänst, support, e-han
 
 Genom att använda chatbotar kan företag effektivisera kommunikationen med sina kunder och förbättra kundupplevelsen genom snabbare och mer tillgänglig support. Man kan också få bättre och enklare överblick över sin verksamhet, minska belastningen på HR när det kommer till nyrekrytering, enklare för anställda att hitta information om hur en uppgift skall utföras samt mycket mer...
 
-I nästa artikel kommer jag gå igenom mer ingående om Customer service chatbots och hur dem kan användas. Jag kommer även att beskriva hur du kan skapa en egen med enkla verktyg.
+I nästa artikel kommer jag gå igenom mer ingående om Customer service chatbots och hur dem kan användas. 
 
 //Patrik

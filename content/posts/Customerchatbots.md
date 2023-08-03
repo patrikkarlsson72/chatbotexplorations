@@ -3,11 +3,11 @@ title: "Customer Service Chatbots"
 date: 2023-08-01T12:32:52+02:00
 ---
 
-Det finns en väldigt spännande och innovativ teknologi som kan effektivisera hur kundtjänst fungerar idag - nämligen "Customer service chatbots" Dessa AI-drivna virtuella assistenter har revolutionerat sättet företag interagerar med sina kunder, och vi kommer att ta en närmare titt på vad de är, hur de fungerar och vilka fördelar de erbjuder.
+Det finns idag flera typer av chatbots man kan sätta upp beroende på vilket behov man har. Customer service chatbots, som jag går igeom i denna artikel, är främst till för att svara på frågor och hjälpa till att lösa besökarnas problem. Ungefär det som helpdesk/kundtjänst gör redan idag. Dessa AI-drivna virtuella assistenter har revolutionerat sättet företag interagerar med sina kunder, och vi kommer att ta en närmare titt på vad de är, hur de fungerar och vilka fördelar de erbjuder.
 
 ### Hur ser det ut idag?
 
-Jag har jobbat inom IT Industrin sedan 14 år tillbaka. Mina första år satt jag främst i kundtjänst och tog emot samtal och hjälpte användarna med problem som uppstod. Problemet var bara att dem flesta av frågorna, förutom lösenordsfrågor, var återkommande och kunde enkelt ha löst av användaren utan att ha ringt IT. 
+Jag har jobbat inom IT Industrin sedan 13 år tillbaka. Mina första år satt jag främst i kundtjänst och tog emot samtal och hjälpte användarna med problem som uppstod. Problemet var bara att dem flesta av frågorna, förutom lösenordsfrågor, var återkommande och kunde enkelt ha löst av användaren utan att ha ringt IT om dem hade t ex haft tillgång till en chatbot att fråga istället.
 
 Ett exempel hur ett samtal kunde se ut är följande: 
 
@@ -31,11 +31,30 @@ Svar: Ok, då är wifi avstängt på din dator och du behöver toucha lampan med
 "Ok, nu fungerar det igen. Tack för hjälpen"
 
 Svar: Inga problem, det är bara att ringa om det skulle dyka upp ytterligare några problem.
+
 ```
 
-I just detta fall så skulle man ganska enkelt kunna ha löst användarens problem med en chatbot istället.
+----------------------
 
 ![img alt text](/images/teacher1.jpg)
+
+
+---------------------
+
+### Ett enkelt exempel på en chatbot:
+
+{{< rawhtml >}} 
+
+<center>
+<video height=40% controls>
+    <source src="/videos/customerservicechatbotex.mp4" type="video/mp4">
+    Your browser does not support the video tag.  
+</video>
+</center>
+{{< /rawhtml >}}
+
+
+Detta är självklart ett väldigt enkelt exempel på hur en chatbot kan jobba men ger ändå en inblick i hur det kan fungera. Användarna kan sedan välja att kommunicera med chatbotten via webben, whatsapp, Microsoft Teams etc...
 
 ### Vad är Customer service chatbots?
 

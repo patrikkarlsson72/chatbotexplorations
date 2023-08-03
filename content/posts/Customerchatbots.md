@@ -3,7 +3,7 @@ title: "Customer Service Chatbots"
 date: 2023-08-01T12:32:52+02:00
 ---
 
-Det finns idag flera typer av chatbots man kan sätta upp beroende på vilket behov man har. Customer service chatbots, som jag går igeom i denna artikel, är främst till för att svara på frågor och hjälpa till att lösa besökarnas problem. Ungefär det som helpdesk/kundtjänst gör redan idag. Dessa AI-drivna virtuella assistenter har revolutionerat sättet företag interagerar med sina kunder, och vi kommer att ta en närmare titt på vad de är, hur de fungerar och vilka fördelar de erbjuder.
+Det finns idag flera typer av chatbots man kan sätta upp beroende på vilket behov man har. Customer service chatbots, som jag går igenom i denna artikel, är främst till för att svara på frågor och hjälpa till att lösa besökarnas problem. Ungefär det som helpdesk/kundtjänst gör redan idag. Dessa AI-drivna virtuella assistenter har revolutionerat sättet företag interagerar med sina kunder, och vi kommer att ta en närmare titt på vad de är, hur de fungerar och vilka fördelar de erbjuder.
 
 ### Hur ser det ut idag?
 
@@ -41,7 +41,9 @@ Svar: Inga problem, det är bara att ringa om det skulle dyka upp ytterligare n�
 
 ---------------------
 
-### Ett enkelt exempel på en chatbot:
+#### Istället för att ringa in och stå och vänta i kö så hade användaren enkelt kunna fråga chatbotten. Då skulle det kunna se ut så här:
+
+ (Ett enkelt exempel på en chatbot:)
 
 {{< rawhtml >}} 
 

@@ -5,6 +5,7 @@ date: 2023-08-04T11:02:51+02:00
 
 Inom dagens snabbrörliga digitala landskap har förmågan att generera kvalitativa leads och potentiella kunder blivit en av de mest eftertraktade förmågorna för företag, oavsett storlek och bransch. Traditionella metoder för leadgenerering har ständigt utvecklats för att möta den moderna konsumentens förväntningar och beteenden. En spännande ny innovation som har tagit världen med storm är användningen av AI-drivna lead chatbots.
 
+![img alt text](/images/2botschatting1.jpg)
 
 ## Anpassad Leadgenerering
 

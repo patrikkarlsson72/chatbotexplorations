@@ -35,7 +35,7 @@ Det finns såklart nackdelar som med all relativ nya teknik. Främst är det nog
 
 ### **Slutsats**:
 
-Så, i min värld så tycker jag nog inte man skall vara rädd utan istället se fram emot dem möjligheter just chatbots kan medföra. Vissa har påpekat för mig att det kommer "ta våra jobb" medans jag ser det som en möjlighet att som "it nörd" kunna lära sig något nytt och gå vidare. Jobb kommer det nog alltid finnas, dock inte som det ser ut idag. Framtiden, främst inom IT, kommer nog handla om att lära sig skriva "promtar" som ai förstår eller "promt engineering" som det heter på engelska.
+Som svar på den inledande frågeställningen så, nej, jag tror inte världen kommer gå under men däremot så är jag övertygad om att chatbots kommer att ersätta många av dem funktioner som finns idag på arbetsplatserna. Det kommer med all säkerhet att medföra att vissa arbetsuppgifter kommer att försvinna men för en en "it nörd" som mig själv så ser jag faktiskt mest fördelar med detta. Jobb kommer det nog alltid finnas, dock inte som det ser ut idag. Framtiden, främst inom IT, kommer nog handla om att lära sig skriva "promtar" som ai förstår eller "promt engineering" som det heter på engelska.
 
 Till sist, chatbots är ett spännande område. I denna blog kommer jag att ta upp vad för typer som finns just nu och hur man kan använda dem.
 

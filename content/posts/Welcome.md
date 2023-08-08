@@ -7,7 +7,7 @@ Värden kommer att gå under....Ungefär så lät det när min sambo för några
 
 Vad hon inte riktigt känner till är att jag, hennes sambo sedan 28 år tillbaka, själv bygger ai bottar för "fulla muggar". Vet inte riktigt hur man förklarar det för någon som inte är så särskilt insatt i ämnet och precis blivit uppskrämt av kanske världens smartaste människa. Det blir liksom fel hur man än vrider och vänder på saken och jag följer då min bortgångna morfars råd att hålla tyst...
 
-Nåväl, ligger det då något i det hon säger? Är världen på väg att tas över av Ai? Svaret är väl att det har nog ingen någon som helst aning om. Det ända jag är övertygad om är att det svårt att stoppa utvecklingen. Kanske till och med omöjligt och vill vi det?
+Nåväl, ligger det då något i det hon säger? Är världen på väg att tas över av Ai? 
 
 ### Min erfarenhet
 
@@ -35,7 +35,8 @@ Det finns såklart nackdelar som med all relativ nya teknik. Främst är det nog
 
 ### **Slutsats**:
 
-Som svar på den inledande frågeställningen så, nej, jag tror inte världen kommer gå under men däremot så är jag övertygad om att chatbots kommer att ersätta många av dem funktioner som finns idag på arbetsplatserna. Det kommer med all säkerhet att medföra att vissa arbetsuppgifter kommer att försvinna men för en en "it nörd" som mig själv så ser jag faktiskt mest fördelar med detta. Jobb kommer det nog alltid finnas, dock inte som det ser ut idag. Framtiden, främst inom IT, kommer nog handla om att lära sig skriva "promtar" som ai förstår eller "promt engineering" som det heter på engelska.
+Som svar på den inledande frågeställningen om världen kommer att tas över av AI är väl att det har nog ingen någon som helst aning om. Det ända jag är övertygad om är att det svårt att stoppa utvecklingen. Kanske till och med omöjligt och vill vi verkligen det? 
+Jag övertygad om att chatbots kommer att ersätta många av dem funktioner som finns idag på arbetsplatserna. Det kommer med all säkerhet att medföra att vissa arbetsuppgifter kommer att försvinna men för en "it nörd" som mig själv så ser jag faktiskt mest fördelar med detta. Jobb kommer det nog alltid finnas, dock inte som det ser ut idag. Framtiden, främst inom IT, kommer nog handla om att lära sig skriva "promtar" som ai förstår eller "promt engineering" som det heter på engelska.
 
 Till sist, chatbots är ett spännande område. I denna blog kommer jag att ta upp vad för typer som finns just nu och hur man kan använda dem.
 

@@ -44,4 +44,4 @@ Att införa onboarding chatbots kräver en noggrant planerad implementering och 
 
 Onboarding chatbots representerar en banbrytande lösning för att förbättra och effektivisera onboarding-processen för nya medarbetare. Genom att kombinera teknologi med mänsklig insikt kan företag skapa en positiv och minnesvärd introduktion för sina medarbetare. Utforska möjligheterna med onboarding chatbots och låt dem vara en nyckelkomponent i din framgångsrika onboarding-strategi.
 
-Har du frågor eller vill du veta mer om hur du kan implementera onboarding chatbots i din organisation? Tveka inte att kontakta mig för ytterligare vägledning och råd. Jag ser fram emot att hjälpa dig att skapa en mer effektiv och engagerande onboarding-process!
+//Patrik

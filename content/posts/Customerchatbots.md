@@ -91,6 +91,4 @@ Trots alla fördelar så finns det även några utmaningar. Några av dem inklud
 
 Customer service chatbots erbjuder ett kraftfullt verktyg för företag att förbättra sin kundsupport och effektivisera sina verksamheter. Genom att kombinera mänsklig expertis med AI-teknologi kan företag skapa en positiv och effektiv kundupplevelse. 
 
-För fler frågor och funderingar så är du välkommen att kontakta mig. I nästa post så kommer jag gå igenom hur man kan skapa en bot helt själv med relativt enkla verktyg.
-
 //Patrik

@@ -55,6 +55,12 @@ url = "mailto:patrik@chatbotexplorations.se"
   identifier = "om"
   url = "/om/"
 
+  [[menu.main]]
+  name = "Kontakt"
+  weight = 400
+  identifier = "kontakt"
+  url = "/page/Kontakt"
+
  [[main]]
 name = "Accomplishments"
 weight = 500

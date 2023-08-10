@@ -36,6 +36,8 @@ Svar: Inga problem, det √§r bara att ringa om det skulle dyka upp ytterligare n√
 
 ----------------------
 
+
+
 ![img alt text](/images/teacher1.jpg)
 
 

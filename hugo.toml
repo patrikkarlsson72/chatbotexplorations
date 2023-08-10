@@ -12,6 +12,7 @@ profilePicture = "images/profile.jpg"
 displayMode = "dark"
 readMore = true
 gtagId = "G-FRFK35D2YV"
+contactFormAction = "https://formspree.io/f/xknljrje"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
